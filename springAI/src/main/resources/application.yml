@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: springAI
+  ai:
+    openai:
+      api-key: sk-mdEtthxgSMcr9cubgNn4REdHRGL93QkqQupXvLWzHYZcsayL
+      base-url: https://api.chatanywhere.tech
+#      base-url: https://api.chatanywhere.cn
